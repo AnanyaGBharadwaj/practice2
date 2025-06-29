@@ -4,3 +4,5 @@ name=input()
 print("Hello!", name)
 print("What is your age")
 age=int(input())
+print("where are u from")
+
