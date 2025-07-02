@@ -5,4 +5,4 @@ print("Hello!", name)
 print("What is your age")
 age=int(input())
 print("Where are u from?")
-
+place=input()
